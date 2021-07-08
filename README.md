@@ -1,3 +1,7 @@
+---
+difficulty: Easy
+---
+
 # Canvas Markdown Conversion Test
 
 ## Heading with `inline-code`
