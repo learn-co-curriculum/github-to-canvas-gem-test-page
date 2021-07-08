@@ -1,5 +1,6 @@
 ---
 difficulty: Easy
+milestone: True
 ---
 
 # Canvas Markdown Conversion Test
